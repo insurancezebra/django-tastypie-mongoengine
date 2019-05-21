@@ -14,7 +14,7 @@ VERSION = '0.4.6'
 
 if __name__ == '__main__':
     setup(
-        name = 'django-tastypie-mongoengine',
+        name = 'thezebra-django-tastypie-mongoengine',
         version = VERSION,
         description = "MongoEngine support for django-tastypie.",
         long_description = open(os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
